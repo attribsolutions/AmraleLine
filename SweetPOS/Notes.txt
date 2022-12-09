@@ -1,0 +1,33 @@
+﻿=COM port settings in setting form.
+
+User Rights logic
+==Strong Licencing (Priod Based)
+Bugs form & table with resolution status, priority, date, revised date
+Info form
+
+
+=Backup Restore
+=Settings - Hide/Dispose user control, 
+Company/Firm information table & form
+
+=Check bil paid or not before edit the sale transaction.
+=Number alignment in all controls grid.
+=update sale.
+
+=update receiptpayment with effect on Invoce & Sale tables.
+=RFID Integration.
+
+
+RFID
+====
+
+Card Login
+Card Initializer
+
+
+
+Hardcode things
+===============
+1. Setting table & Form
+2. Info table & Form
+3. User rights??

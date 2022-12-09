@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjects", "DataObjects\DataObjects.csproj", "{A81102AD-631C-4992-ACF1-28760BCE5986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{8688510F-F806-4E91-94AF-3D392A3FF235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{F20165E2-3E0D-47CB-ADFB-40568095F58A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SweetPOS", "SweetPOS\SweetPOS.csproj", "{61F31F08-6C07-490F-B5AB-11B1EBA8DAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChitalePersonalzer", "ChitalePersonalzer\ChitalePersonalzer.csproj", "{C2E455AC-F024-405E-8190-BC7464331A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Licenser", "Licenser\Licenser.csproj", "{038E8B81-AD94-4483-9133-AC54E847E39A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{034B8C4F-DE4D-49EE-B54F-0F7E883A1563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81102AD-631C-4992-ACF1-28760BCE5986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81102AD-631C-4992-ACF1-28760BCE5986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81102AD-631C-4992-ACF1-28760BCE5986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81102AD-631C-4992-ACF1-28760BCE5986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8688510F-F806-4E91-94AF-3D392A3FF235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8688510F-F806-4E91-94AF-3D392A3FF235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8688510F-F806-4E91-94AF-3D392A3FF235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8688510F-F806-4E91-94AF-3D392A3FF235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20165E2-3E0D-47CB-ADFB-40568095F58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20165E2-3E0D-47CB-ADFB-40568095F58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20165E2-3E0D-47CB-ADFB-40568095F58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20165E2-3E0D-47CB-ADFB-40568095F58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F31F08-6C07-490F-B5AB-11B1EBA8DAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F31F08-6C07-490F-B5AB-11B1EBA8DAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F31F08-6C07-490F-B5AB-11B1EBA8DAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F31F08-6C07-490F-B5AB-11B1EBA8DAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E455AC-F024-405E-8190-BC7464331A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E455AC-F024-405E-8190-BC7464331A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E455AC-F024-405E-8190-BC7464331A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E455AC-F024-405E-8190-BC7464331A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038E8B81-AD94-4483-9133-AC54E847E39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038E8B81-AD94-4483-9133-AC54E847E39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038E8B81-AD94-4483-9133-AC54E847E39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038E8B81-AD94-4483-9133-AC54E847E39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034B8C4F-DE4D-49EE-B54F-0F7E883A1563}.Debug|Any CPU.ActiveCfg = Debug
+		{034B8C4F-DE4D-49EE-B54F-0F7E883A1563}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
